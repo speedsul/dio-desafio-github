@@ -1,2 +1,7 @@
+git init 
+git add 
+git push origin ...
+git status
+git log
 git branch background
 git switch background
