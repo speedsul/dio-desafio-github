@@ -1,0 +1,4 @@
+- [X] estudar diariamente
+- [ ] praticar diariamente
+- [ ] refazer testes
+- [ ] procurar refazer sem acompanhamento dos videos para fixação
